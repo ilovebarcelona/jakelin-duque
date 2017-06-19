@@ -1,0 +1,52 @@
+.fondo1 {
+	background-color: #86509C;
+}
+p{
+	color:white;
+	font-family: sans-serif;
+	text-align: center;
+}
+.container{
+	width: 100% !important;
+}
+.letras{
+	font-weight: bolder;
+	color:white;
+	margin-top: 10px;
+	font-size: 25px;
+}
+.palabra{
+	background-color: #DC8243;
+	margin-top: 20px;
+	font-size: 18px;
+	width: 200px;
+	height: 50px;
+}
+.fondo2 {
+	background-color: #12C3A9;
+}
+.fondo{
+	margin-top: 5px;
+	color:white;
+}
+.container{
+	width: 100% !important;
+}
+.fondo3 {
+	background-color: #E5F0F6;
+}
+.fondo0{
+	color:black;
+}
+h1{
+	color:black;
+	font-size: 20px;
+}
+span{
+	color:blue;
+
+}
+.jaki{
+	color:black;
+	font-size: 15px;
+}
